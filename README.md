@@ -1,48 +1,60 @@
-<<<<<<< HEAD
-# Hi, I'm Beza 👋
-
-I'm a software developer passionate about building practical tools that solve real-world computer and system problems.
-
----
-
-### 🚀 What I'm working on
-
-- 📱 **Android Applications:** Building and maintaining Android apps with robust backend systems.
-- 🖥️ **PC Utilities:** Creating PC monitoring and remote control tools for system management.
-- 🌐 **Web Development:** Designing and developing websites and web-based dashboards.
-- ⚙️ **Automation:** Crafting automation and productivity tools to streamline workflows.
+<div align="center">
+  <h1 align="center">Hi, I'm Beza 👋</h1>
+  <p align="center">
+    A passionate software developer building practical tools to solve real-world problems.
+  </p>
+</div>
 
 ---
 
-### 💡 My Approach
+### 👨‍💻 About Me
 
-- **Performance & Stability:** I focus on creating reliable and efficient solutions.
-- **AI-Enhanced Development:** I leverage AI tools to accelerate development and improve code quality.
-- **Simplicity:** I prefer simple and maintainable solutions over unnecessary complexity.
+I'm a software developer with a strong focus on creating efficient, stable, and practical applications. I enjoy tackling challenges across different platforms, from mobile apps to backend systems. I believe in the power of simple, reliable solutions and leverage AI tools to enhance my development process.
+
+---
+
+### 🛠️ My Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,django,flask,fastapi,react,nextjs,nodejs,express,html,css,js,ts,docker,git,github,linux" />
+  </a>
+</p>
+
+---
+
+### 🚀 What I'm Building
+
+| Category          | Description                                                                                              |
+| ----------------- | -------------------------------------------------------------------------------------------------------- |
+| 📱 **Android Apps**   | Building and maintaining Android applications with robust and scalable backend systems.                   |
+| 🖥️ **PC Utilities**    | Creating tools for PC monitoring, remote control, and system management to improve productivity.       |
+| 🌐 **Web Development**  | Designing and developing responsive websites and data-driven web-based dashboards.                      |
+| ⚙️ **Automation**       | Crafting automation scripts and productivity tools to streamline workflows and repetitive tasks.        |
 
 ---
 
 ### 🌱 Current Focus
 
-- **Remote PC Recovery:** Developing a system for remote PC freeze recovery and monitoring.
-- **System Alerts:** Building a tool for system performance alerts and automated actions.
+- **Remote PC Recovery:** A system for remotely recovering and monitoring PCs that have frozen or become unresponsive.
+- **System Alerts:** A tool that provides real-time alerts for system performance and triggers automated actions.
 
-I'm constantly learning and improving my skills by building real projects.
-=======
-## Hi there 👋
+---
 
-<!--
-**bezaneh-dev/bezaneh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Get in Touch
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/bezaneh-dev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 978eb698a37357d2f970174bedc490dd874716ea
+I'm always open to connecting with other developers and discussing new ideas. Feel free to reach out!
