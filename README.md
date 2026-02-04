@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hi, I'm Beza 👋
 
 I'm a software developer passionate about building practical tools that solve real-world computer and system problems.
@@ -27,3 +28,21 @@ I'm a software developer passionate about building practical tools that solve re
 - **System Alerts:** Building a tool for system performance alerts and automated actions.
 
 I'm constantly learning and improving my skills by building real projects.
+=======
+## Hi there 👋
+
+<!--
+**bezaneh-dev/bezaneh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 978eb698a37357d2f970174bedc490dd874716ea
